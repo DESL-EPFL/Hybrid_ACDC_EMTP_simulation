@@ -2,6 +2,7 @@
 
 We provide an EMTP-RV model of a hybrid low-voltage AC/DC grid. The 18 node AC grid (identical to the CIGREE low-voltage distribution grid [1]) is coupled using 4 voltage source converters to an 8 node DC grid. Two simulations are provided: one model that includes a exact switching VSC model and one that uses a average VSC model. The simulations are used for the validation of a linear state estimation algorithm for hybrid AC/DC micro grids [2].
 [emtpdesign2.pdf](https://github.com/DESL-EPFL/Hybrid-AC-DC-grid/files/7829160/emtpdesign2.pdf)
+![Hybrid-AC-DC_microgrid-Switching-model_Model](https://user-images.githubusercontent.com/57922986/148554929-0837b800-e74c-494c-8a78-da4965ce5d38.jpg)
 
 ## Files
 
