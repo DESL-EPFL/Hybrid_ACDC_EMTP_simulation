@@ -8,6 +8,7 @@ We provide an EMTP-RV model of a hybrid low-voltage AC/DC grid. The 18 node AC g
 ## Files
 
 [Hybrid-AC-DC_microgrid-Average-model.ecf] Model that uses an average VSC model
+
 [Hybrid-AC-DC_microgrid-Switching-model.ecf] Model that uses an exact switching VSC model
 
 
