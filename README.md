@@ -15,7 +15,7 @@ We provide an EMTP-RV model of a hybrid low-voltage AC/DC grid. The 18 node AC g
 ## Software
 The following software is required to run the model:
 
-EMTP-RV (https://www.emtp.com/) The models are work both on version V4.1 and V4.2 
+EMTP-RV (https://www.emtp.com/) The models can run on both versions V4.1 and V4.2 
 
 
 [1] S. Barsali, K. Strunz, and Z. Styczynski, “Cigre’ task force c6.04.02: Developing benchmark models for integrating distributed energy resources,”
